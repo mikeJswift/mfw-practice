@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    background-color: #000000;
+}
+
+.col-md-3 {
+    border: 3px solid #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    margin-right: 20%;
+    padding-right: -10%;
+}
+
+.col-md-9 {
+    border: 3px solid #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+}
